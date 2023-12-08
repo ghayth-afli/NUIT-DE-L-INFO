@@ -1,0 +1,1 @@
+<?php include_once("project-details.html"); ?>

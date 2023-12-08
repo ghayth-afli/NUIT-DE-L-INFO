@@ -1,0 +1,1 @@
+<?php include_once("team-details.html"); ?>
